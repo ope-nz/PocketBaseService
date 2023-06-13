@@ -1,5 +1,7 @@
 # PocketBaseService
-Installer to run PocketBase as a windows service.
+Installer to run PocketBase as a Windows service.
+
+Uses WinSW to run PocketBase as a service - https://github.com/winsw/winsw
 
 ## Installer UI
 
