@@ -3,6 +3,12 @@ Installer to run PocketBase as a Windows service.
 
 Uses WinSW to run PocketBase as a service - https://github.com/winsw/winsw
 
+## Quick Start
+
+Run the installer as admin and PocketBase will be available on http://localhost:8090
+
+See PocketBase documentation for further setup and configuration - https://pocketbase.io/docs/
+
 ## Installer UI
 
 ![image](https://github.com/ope-nz/PocketBaseService/assets/26259049/15b4031b-3600-46ce-a12e-45925111ffc3)
